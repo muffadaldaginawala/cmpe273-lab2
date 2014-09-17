@@ -46,6 +46,5 @@ Login.prototype.login = function(_name, _email) {
 	
    
 };
-
 // Export the Login class
 module.exports = new Login();
